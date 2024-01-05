@@ -1,2 +1,2 @@
 # first-test-repo
-For collaborating purposes
+For testing purposes only
